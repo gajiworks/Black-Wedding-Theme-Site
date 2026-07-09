@@ -2,14 +2,6 @@
 
 A modern black-and-white wedding website for Melvin and Trisha, built with Blazor and mirrored as a static GitHub Pages site.
 
-## Features
-
-- Responsive luxury editorial design for desktop, tablet, and mobile
-- Animated hero, section reveals, and responsive Story layout
-- Wedding details and gallery with an image popup
-- StaticForms RSVP flow with loading, validation, error, and success states
-- Matching Blazor and static `docs/` versions
-
 ## Project structure
 
 - `BlackWeddingTheme/` - .NET 10 Blazor application
